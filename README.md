@@ -1,2 +1,2 @@
-# tflite_model_metadata_generator
-Template for TensorFlow Lite model generation
+# TensorFlow Lite Metadata Generator
+Template for TensorFlow Lite model metadata generation
