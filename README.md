@@ -1,2 +1,2 @@
 # TensorFlow Lite Metadata Generator
-Template for TensorFlow Lite model metadata generation
+Example of TensorFlow Lite model metadata generation using the MobileNet model.
